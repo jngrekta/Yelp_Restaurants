@@ -1,1 +1,1 @@
-# yelp_restaurants_project
+# Yelp_Restaurants
