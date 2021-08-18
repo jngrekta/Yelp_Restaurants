@@ -1,1 +1,1 @@
-# yelp_EDA
+# yelp_restaurants_project
